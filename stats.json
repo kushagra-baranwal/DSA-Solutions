@@ -1,31 +1,33 @@
 {
-  "totalSolved": 7,
+  "totalSolved": 8,
   "currentStreak": 1,
   "maxStreak": 1,
   "lastSyncDate": "2026-08-17",
-  "todayCount": 3,
+  "todayCount": 4,
   "difficultyCounts": {
     "easy": 2,
-    "medium": 4,
+    "medium": 5,
     "hard": 1,
     "basic": 0
   },
   "syncedProblems": {
-    "GeeksForGeeks_Stock_Buy_and_Sell_ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ_Max_one_Transaction_Allowed": true,
+    "GeeksForGeeks_Stock_Buy_and_Sell_ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ_Max_one_Transaction_Allowed": true,
     "LeetCode_Top_K_Frequent_Elements": true,
     "LeetCode_Two_Sum_II_-_Input_Array_Is_Sorted": true,
     "LeetCode_Container_With_Most_Water": true,
     "LeetCode_Trapping_Rain_Water": true,
     "LeetCode_Longest_Substring_Without_Repeating_Characters": true,
-    "LeetCode_Valid_Palindrome": true
+    "LeetCode_Valid_Palindrome": true,
+    "LeetCode_Longest_Consecutive_Sequence": true
   },
   "activityHistory": {
     "2026-08-08": 4,
-    "2026-08-17": 3
+    "2026-08-17": 4
   },
   "todayProblems": [
     "Trapping Rain Water",
     "Longest Substring Without Repeating Characters",
-    "Valid Palindrome"
+    "Valid Palindrome",
+    "Longest Consecutive Sequence"
   ]
 }
